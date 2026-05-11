@@ -13,7 +13,7 @@ type AshItem = {
   rotation: [number, number, number];
 };
 
-const MESSAGE_ENDPOINT = "https://naroah.top/messages";
+const MESSAGE_ENDPOINT = "https://aws.naroah.top/altar/messages";
 const DRACO_DECODER_PATH = "/draco/";
 
 const hasStarted = ref(false);
